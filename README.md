@@ -1,2 +1,2 @@
 # jumperwin
-desarrollador fronted y backend - stack man
+desarrollador fronted y backend - stack mean
